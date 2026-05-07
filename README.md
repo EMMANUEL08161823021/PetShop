@@ -3,7 +3,6 @@
 A hybrid decentralised pet marketplace built on Solana, combining a React 18 front-end, Supabase Postgres back-end, and on-chain SOL settlement — with a custodial wallet layer that removes Web3 onboarding friction for everyday users.
 
 🔗 **Live Demo:** [pet-shop-umber-three.vercel.app](https://pet-shop-umber-three.vercel.app)
-📦 **Repository:** [github.com/Olatunjitaiwosam/PetShop](https://github.com/Olatunjitaiwosam/PetShop)
 
 ---
 
