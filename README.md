@@ -62,7 +62,6 @@ fetches encrypted key → decrypts in memory → reconstructs keypair → builds
 ### Installation
 
 ```bash
-git clone https://github.com/Olatunjitaiwosam/PetShop.git
 cd PetShop
 npm install
 ```
