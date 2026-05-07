@@ -138,6 +138,3 @@ PetShop/
 
 ---
 
-## License
-
-This project is based on the [kaimangeek/PetShop](https://github.com/kaimangeek/PetShop) open-source scaffold and was substantially extended as part of coursework for CN6035 Mobile & Distributed Systems at the University of East London (2025/26).
